@@ -1,0 +1,12 @@
+.vs*
+*~
+build/
+build.*
+assets
+.clang_complete
+lib/
+*.7z
+CMakeSettings.json
+CppProperties.json
+
+.idea/
